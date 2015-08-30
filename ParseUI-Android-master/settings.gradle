@@ -1,0 +1,10 @@
+rootProject.name = 'ParseAndroidUI'
+
+// Parse Login UI Library
+include ':ParseLoginUI', ':app'
+
+// Facebook SDK
+include 'facebook-sdk:facebook'
+
+
+include 'k:myoSd'
